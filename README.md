@@ -1,4 +1,4 @@
-# Thesis Code — Ionospheric Current Mapping over Greenland
+# Master Thesis Code — Modelling Ionospheric Currents Over Greenland
 
 This repository contains the Python code developed during my MSc thesis at the Technical University of Denmark (DTU). The work focuses on modelling and mapping ionospheric currents over Greenland, with comparisons between SuperMAG and DTU modelling configurations.
 
