@@ -43,7 +43,7 @@ pip install git+https://github.com/<org>/<repo>.git
 
 ## Usage
 
-There is no unified entry point. The intended way to explore the code is to open the notebooks directly. Some notebooks depend on data files that are not included in this repository (observation data, model outputs) — if you need access to specific datasets, see the contact section below.
+There is no unified entry point. The intended way to explore the code is to open the notebooks directly. All notebooks depend on data files that are not included in this repository (observation data, model outputs) — if you need access to specific datasets, see the contact section below.
 
 ---
 
@@ -51,13 +51,8 @@ There is no unified entry point. The intended way to explore the code is to open
 
 This repository is not actively maintained, but if you have questions about the code or the underlying research, feel free to reach out.
 
-**William [Last Name]**
-📧 [your.email@example.com]
-
-I'll do my best to respond, though reply times may be slow now that the thesis is submitted.
+**William Holst Hyllested**
+📧 [williamholsthyll@hotmail.com]
 
 ---
 
-## Acknowledgements
-
-This work was carried out at the Technical University of Denmark (DTU). Functions in `resolution.py` are adapted from the [EZIE repository](https://github.com/klaundal/ezie).
